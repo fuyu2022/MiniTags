@@ -1,0 +1,11 @@
+[角色]:Bocchi
+[头发]:pink hair, long hair:1, short hair:1, bocchi_cube
+[服装]:pink tracksuit, high neck, white stripes on sleeves, pink sweatshirt, grey hoodie, hood down, open jacket, black t-shirt:1, undershirt, unzipped, wine red t-shirt:1
+[表情]:bocchi_gloomy, nervous:2, sweat, closed mouth:1, blank expression:2, closed eyes, bocchi_blush, happy, open mouth:1, serious:2, smile:2, surprised:2
+[道具]:guitar, black guitar bag, black backpack straps, totebag on shoulder, soda, headphone
+[构图]:upper body:1, full body:1, close-up:1
+[动作]:standing:1, sitting:1, seiza:1, head tilt:2, playing guitar:3, sleeping:4, walking:1
+[视角]:front view:1, side view:1, profile:1, slightly turned:1
+[视线]:looking up:1, looking down:1, looking left:2, looking right:2, looking at viewer:2
+[背景]:mesh wall, window, blurred background, dark background, indoor, outdoor, graffiti on wall, blackboard, poster on wall
+[光与气氛]:sunlight:1, twilight:1, screen light:1, artificial light:1, dark atmosphere:2, bright atmosphere:2, bright lighting:3, dim lighting:3, backlight
